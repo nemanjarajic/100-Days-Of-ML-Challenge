@@ -1,1 +1,1 @@
-# 100-Days-Of-ML-Challenge
+# 100 Days Of Machine Learning Challenge
