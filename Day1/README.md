@@ -1,14 +1,5 @@
 # Day 1: Data Preprocessing 
 
-### Important Libraries
-  - Numpy: Support for large multi-dimensional arrays and hosts a large collections of high-level math function that can be used to operate on arrays.
-  - Pandas: Data analysis and manipulation tool for working with relational and labeled data
-  - Scikit-learn: Machine learning library
-  ```
-  pip install pandas
-  pip install numpy
-  pip install scikit-learn
-  ```
 ### What is data pre-processing?
   
 It is the technique of cleaning and oragnizing raw data to make it suitable for building and training machine learning models
