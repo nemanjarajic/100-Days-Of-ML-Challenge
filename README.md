@@ -27,6 +27,12 @@ Original Source : [100 Days of Machine Learning](https://github.com/Avik-Jain/10
 
 ### [Day 3: Multiple Linear Regression](https://github.com/nemanjarajic/100-Days-Of-ML-Challenge/tree/main/Day3)
   - Data preprocessing
-  - Fiiting LR model
+  - Fitting LR model
   - Predictions
   - Vizualization
+
+### [Day 4: Logistic Regression](https://github.com/nemanjarajic/100-Days-Of-ML-Challenge/tree/main/Day4)
+  - Feature Scaling
+  - Fitting model
+  - Predictions
+  - Visualization
